@@ -8,7 +8,7 @@ The **Election Vote Calculation System** is a Python-based application designed 
 - **Voting Rules:** 
   - Eligible voters can cast votes for up to three candidates.
   - Voter profiles include name, NIC, age, and state/province.
-  - Voting is restricted to adult U.S. citizens.
+  - Voting is restricted to adult citizens.
   - Candidates can represent only one state/province, and citizens may vote only within their state/province.
 - **Secure and Transparent:** Enforces election rules to ensure fairness and integrity.
 - **Result Visualization:** Utilizes the `matplotlib` library to generate clear, intuitive charts displaying vote counts for each candidate.
